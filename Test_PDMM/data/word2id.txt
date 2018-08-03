@@ -1,0 +1,10 @@
+ps,0
+nice,1
+smile,2
+cc,3
+hmm,4
+score,5
+12,6
+happy,7
+final,8
+sort,9
